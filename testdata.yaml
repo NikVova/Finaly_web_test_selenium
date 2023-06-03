@@ -1,0 +1,9 @@
+address: https://test-stand.gb.ru
+sleep_time: 1
+browser: firefox
+username: qwert22
+password: 88b64c7d65
+bad_login: test
+name: Vladimir Nikolaev
+email: test@mail.ru
+content: Test information
